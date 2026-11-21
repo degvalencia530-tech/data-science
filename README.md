@@ -11,6 +11,53 @@
 </p>
 </div>
 
+## 📌 Mi progreso: ruta personalizada
+
+Para marcar avance, cambia el símbolo de la columna **Estado**.
+
+Leyenda: ⬜ pendiente · 🔄 en curso · ✅ terminado · ⏭️ omitido (ya dominado)
+
+### Ruta principal (en este orden)
+
+| # | Estado | Curso | Bloque | Nota |
+|---|:---:|---|---|---|
+| 1 | ⬜ | [What is Data Science](https://www.coursera.org/learn/what-is-datascience) | Intro a Data Science | Panorama general, rápido |
+| 2 | ⬜ | [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md) | Intro a CS | Omitir si ya programas en Python |
+| 3 | ⬜ | [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | Intro a CS | MIT 6.0002 |
+| 4 | ⬜ | [Statistical Learning with Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) | Estadística | Núcleo de la ruta (libro ISLP) |
+| 5 | ⬜ | [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) | Herramientas y métodos | |
+| 6 | ⬜ | [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology) | Herramientas y métodos | |
+| 7 | ⬜ | [Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling) | Herramientas y métodos | Limpieza de datos |
+| 8 | ⬜ | [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) | Machine Learning | |
+| 9 | ⬜ | [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) | Machine Learning | |
+| 10 | ⬜ | [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) | Machine Learning | |
+| 11 | ⬜ | [Database Management Essentials](https://www.coursera.org/learn/database-management) | Bases de datos | SQL |
+| 12 | ⬜ | [Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Complemento (fuera de OSSU) | Series de tiempo |
+| 13 | ⬜ | [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) | Machine Learning | Si interesa trabajar con datos a gran escala |
+| 14 | ⬜ | Proyecto final | Proyecto | Pronóstico de series de tiempo |
+
+### Opcionales (después de la ruta principal)
+
+| Estado | Curso | Bloque |
+|:---:|---|---|
+| ⬜ | [Java Programming](https://java-programming.mooc.fi/) | Estructuras de datos y algoritmos |
+| ⬜ | Algorithms I a IV (Georgia Tech, edX); ver la sección [Data Structures and Algorithms](#data-structures-and-algorithms) | Estructuras de datos y algoritmos |
+| ⬜ | Cursos de data warehouse y BI (4) y [MongoDB for Developers](https://learn.mongodb.com/pages/mongodb-developer-learning-paths) | Bases de datos |
+| ⬜ | [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | Machine Learning |
+| ⬜ | [Process Mining](https://www.coursera.org/learn/process-mining) | Machine Learning |
+| ⬜ | [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home) (Stat 110) | Estadística (repaso) |
+
+### Omitidos (ya dominados)
+
+| Estado | Curso | Bloque |
+|:---:|---|---|
+| ⏭️ | Calculus 1A, 1B y 1C | Cálculo de una variable |
+| ⏭️ | Essence of Linear Algebra y Linear Algebra (MIT 18.06) | Álgebra lineal |
+| ⏭️ | Multivariable Calculus (MIT 18.02) | Cálculo multivariable |
+| ⏭️ | Intro to Descriptive Statistics e Intro to Inferential Statistics | Estadística |
+
+---
+
 ## Contents
 
 - [About](#about)
